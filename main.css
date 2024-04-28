@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+form{
+    margin-top: 10%;
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 50px;
+}
+.input{
+    padding: 15px;
+    margin: 10px;
+    width: 300px;
+}
+.swiper-wrapper {
+    width: 1000px;
+    height: 500px;
+    
+  } 
+
+.swiper-slide{
+    width: 20%;
+    height: 20%;
+
+}
+/* .overlay{
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0,0,0,0.5);
+  } */
